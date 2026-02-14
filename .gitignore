@@ -1,0 +1,30 @@
+# Временные файлы
+*.tmp
+*.temp
+
+# Резервные копии
+*.bak
+*.backup
+~*
+
+# Системные файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Системные файлы Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Системные файлы Linux
+.directory
+
+# Временные файлы редакторов
+*~
+.*.swp
+.*.swo
+
+# Файлы блокировки
+~$*
+.~lock.*#
