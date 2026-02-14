@@ -5,7 +5,7 @@
 # Резервные копии
 *.bak
 *.backup
-~*
+*~
 
 # Системные файлы macOS
 .DS_Store
@@ -25,6 +25,11 @@ $RECYCLE.BIN/
 .*.swp
 .*.swo
 
+# Временные файлы Microsoft Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
 # Файлы блокировки
 ~$*
-.~lock.*#
+.~lock.*
